@@ -12,7 +12,7 @@
 
 ## 如何下载 ？
 
-通过github的官网就可以下载使用，https://desktop.github.com/。
+通过github的官网就可以下载使用，https://desktop.github.com
 
 ![“下载 Windows 版”按钮](./../Pic/download-for-windows.png)
 
